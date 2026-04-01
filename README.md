@@ -63,21 +63,21 @@ git clone https://github.com/yourusername/darknexus.git
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/darknexus/main/assets/screen1.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/yourusername/darknexus/main/assets/screen2.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/darknexus-top/darknexus-top/main/assets/screen2.png" width="250"/>
 </p>---
 
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=darknexus-top&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darknexus-top&theme=tokyonight"/>
 </p>---
 
-📢 Author
+## 📢 Author
 
-👤 Shohid
-📧 darknexusbd@gmail.com
-📱 Telegram: @darknexus_bd
+-👤 Shohid
+-📧 darknexusbd@gmail.com
+-📱 Telegram: @darknexus_bd
 
 ---
 
