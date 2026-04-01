@@ -77,7 +77,8 @@ git clone https://github.com/yourusername/darknexus.git
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darknexus-top&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darknexus-top&theme=tokyonight"/>
-</p>---
+</p>
+---
 
 ## 📢 Author
 
