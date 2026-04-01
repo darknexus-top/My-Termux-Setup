@@ -1,7 +1,7 @@
 # My-Termux-Setup
-My personal Termux setup with configs, useful scripts, and development tools
+#### My personal Termux setup with configs, useful scripts, and development tools
 
-🌑 Darknexus
+### 🌑 Darknexus
 
 <p align="center">
   <img src="https://i.imgur.com/8Km9tLL.png" alt="Darknexus Logo" width="120"/>
@@ -12,16 +12,18 @@ My personal Termux setup with configs, useful scripts, and development tools
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Security-High-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
-</p>---
+</p>
 
-📌 About
+---
+
+## 📌 About
 
 Darknexus is a powerful and secure Android application developed by Shohid.
 Focused on performance, privacy, and advanced protection systems.
 
 ---
 
-✨ Features
+ ✨ Features
 
 - 🔐 Advanced Security System
 - ⚡ High Performance & Lightweight
@@ -31,7 +33,7 @@ Focused on performance, privacy, and advanced protection systems.
 
 ---
 
-🔒 Security Layer
+## 🔒 Security Layer
 
 - Obfuscation
 - Marshal Encoding
@@ -40,33 +42,37 @@ Focused on performance, privacy, and advanced protection systems.
 - Anti-Debug System
 - Server-side Validation
 
-«⚠️ This combination makes reverse engineering extremely difficult.»
+```« ⚠️ This combination makes reverse engineering extremely difficult.» ```
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Java
 - Android SDK
 - Sketchware
 - Python
+- Node js
+- php
 
 ---
 
-📦 Installation
+## 📦 Installation
 
 git clone https://github.com/yourusername/darknexus.git
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/darknexus/main/assets/screen1.png" width="250"/>
   <img src="https://raw.githubusercontent.com/darknexus-top/darknexus-top/main/assets/screen2.png" width="250"/>
-</p>---
+</p>
 
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darknexus-top&show_icons=true&theme=tokyonight"/>
@@ -75,19 +81,19 @@ git clone https://github.com/yourusername/darknexus.git
 
 ## 📢 Author
 
--👤 Shohid
--📧 darknexusbd@gmail.com
--📱 Telegram: @darknexus_bd
+- 👤 Shohid
+- 📧 darknexusbd@gmail.com
+- 📱 Telegram: @darknexus_bd
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub and share it!
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
